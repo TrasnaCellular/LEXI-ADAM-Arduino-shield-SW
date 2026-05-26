@@ -1,6 +1,6 @@
 # Trasna LEXI-R10 Arduino MQTT Client
 
-MQTT Client for Trasna LEXI-R10 shield
+MQTT Client for Trasna LEXI-R10 shield.
 
 This project demonstrates how to connect an Arduino UNO R4 to an MQTT broker using the TinyGSM library with a Trasna LEXI-R10 shield.
 
