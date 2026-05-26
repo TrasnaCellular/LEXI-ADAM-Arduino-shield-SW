@@ -1,4 +1,4 @@
-# Trasna LEXI-R10 Arduino Mqtt Client
+# Trasna LEXI-R10 Arduino MQTT Client
 
 MQTT Client for Trasna LEXI-R10 shield
 
