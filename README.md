@@ -217,7 +217,7 @@ This project is open source and available under the [MIT License](http://opensou
 - TinyGSM library by Volodymyr Shymanskyy
 - ArduinoMqttClient library by Arduino LLC
 - Arduino UNO R4 platform by Arduino
-- Trasna LEXI/ADAM shield for Arduino UNO / UNO Q
+- [Trasna LEXI/ADAM shield for Arduino UNO / UNO Q](https://github.com/TrasnaCellular/LEXI-ADAM-Arduino-shield-HW)
 - Adafruit IO for IoT platform services
 
 ---
